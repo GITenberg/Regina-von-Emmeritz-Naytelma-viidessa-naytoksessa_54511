@@ -1,0 +1,49 @@
+_repo: Regina-von-Emmeritz-Naytelma-viidessa-naytoksessa_54511
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Leino, Eino
+    aliases:
+    - Leino, Armas Eino Leopold
+    - Lonnbohm, Armas Eino Leopold
+    - Lönnbohm, Armas Einar Leopold
+    - Vilkastus, Mikko
+    - Lönnbohm, Armas Eino Leopold
+    - Sepeteus, Kanttori
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Eino_Leino
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Sakarias
+    - Topelius, Zakris
+    - Topelius, Zakarias
+    - Topelius, Zachris
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+description: ''
+gutenberg_issued: '2017-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54511'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PT'
+- GITenberg
+title: 'Regina von Emmeritz: Näytelmä viidessä näytöksessä'
+url: http://www.gutenberg.org/ebooks/54511
